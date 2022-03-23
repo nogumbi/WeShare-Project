@@ -1,0 +1,16 @@
+1. does it work?
+2. remove extra code/packages that do not belong.
+3. work on get methods.
+4. replace hardcoded values with environmental variables;
+
+1. create the endpoint
+2. create the controller
+3. get the email address from Context(the url)
+4. send a GET method to the expenses domain with the email address as a param.
+
+        RESPONSE
+5. check that the request goes to the doimain,recognises the endpoint and get inside the controller.
+6. make the controller return a json object
+7. deserialize the json object
+8.
+
